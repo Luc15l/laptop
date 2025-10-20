@@ -1,6 +1,6 @@
 #  Laptop
 ## 1. What is a laptop?
-[Laptop] is a small, portable personal computer (PC). (https://en.wikipedia.org/wiki/Laptop) Laptops typically have a clamshell form factor with a flat-panel screen on the inside of the upper lid and an alphanumeric keyboard and pointing device on the inside of the lower lid 
+[Laptop](https://en.wikipedia.org/wiki/Laptop) is a small, portable personal computer (PC).  Laptops typically have a clamshell form factor with a flat-panel screen on the inside of the upper lid and an alphanumeric keyboard and pointing device on the inside of the lower lid 
 ## 2. Theere are diffrent types of laptops like:
 * Convertible, hybrid, 2-in-1
 * Smaller and larger laptops
@@ -10,4 +10,5 @@ This restriction is one of the major differences between laptops and desktop com
 ##  4. top three laptop manufacturers
 * Intel
 * AMD
+
 * Apple
